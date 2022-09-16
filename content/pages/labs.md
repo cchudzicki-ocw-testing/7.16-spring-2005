@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Labs section background which contains Guidelines for Lab Notebooks,
+  Experimental Design, Good Tissue Culture Room Practice, and different Protocols.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
